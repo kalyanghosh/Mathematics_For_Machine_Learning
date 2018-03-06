@@ -15,4 +15,5 @@ explanations.
 <br></br>
 <b>Linear Algebra Intuition: </b>
 <br></br>
+{5:12}(https://github.com/kalyanghosh/Mathematics_For_Machine_Learning)
 

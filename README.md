@@ -13,5 +13,6 @@ explanations.
 <br></br>
 <b>1. LINEAR ALGEBRA: <b>
 <br></br>
+<b>Linear Algebra Intuition </b>
 
 

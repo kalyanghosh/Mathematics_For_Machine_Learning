@@ -16,28 +16,3 @@ explanations.
 <b>Linear Algebra Intuition: </b>
 <br></br>
 
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "<table style=\"float:left; border:none\">\n",
-    "   <tr style=\"border:none; background-color: #ffffff\">\n",
-    "       <td style=\"border:none\">\n",
-    "           <a href=\"http://bokeh.pydata.org/\">     \n",
-    "           <img \n",
-    "               src=\"assets/bokeh-transparent.png\" \n",
-    "               style=\"width:50px\"\n",
-    "           >\n",
-    "           </a>    \n",
-    "       </td>\n",
-    "       <td style=\"border:none\">\n",
-    "           <h1>Bokeh Tutorial</h1>\n",
-    "       </td>\n",
-    "   </tr>\n",
-    "</table>\n",
-    "\n",
-    "<div style=\"float:right;\"><h2>06. Linking and Interactions</h2></div>"
-   ]
-  }

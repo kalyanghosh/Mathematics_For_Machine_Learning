@@ -13,6 +13,8 @@ explanations.
 <br></br>
 <b>1. LINEAR ALGEBRA: <b>
 <br></br>
-<b>Linear Algebra Intuition </b>
+<b>Linear Algebra Intuition: </b>
+<br></br>
+![NB1](https://github.com/kalyanghosh/Mathematics_For_Machine_Learning/blob/master/Linear_Algebra_Intution.ipynb)
 
 

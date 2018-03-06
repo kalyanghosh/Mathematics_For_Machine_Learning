@@ -13,6 +13,7 @@ explanations.
 <br></br>
 <b>1. LINEAR ALGEBRA: <b>
 <br></br>
+Markup : * Bullet list
 Linear Algebra Intuition:
 ```
 #Definition of Linear Algebra:

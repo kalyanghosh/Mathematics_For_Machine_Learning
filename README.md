@@ -14,7 +14,7 @@ explanations.
 <b>1. LINEAR ALGEBRA: <b>
 <br></br>
 
-*Linear Algebra Intuition:
+-Linear Algebra Intuition:
 ```python
 #Definition of Linear Algebra:
 

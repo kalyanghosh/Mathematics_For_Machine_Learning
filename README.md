@@ -41,5 +41,17 @@ explanations.
 x+y+z=2
 3x−2y−z=3
 ```
+<br></br>
 
+-Vector Space in DataScience:
+```python
+#Vectors in Machine Learning:
+
+Ans: From a Computer Science point of view,A vector can be defined as a list of numbers.
+     From a Physical point of view, a vector can be defined as aposition in 3D space.
+     If we visualize the parameters or features of an entity, a vector can be visualized spatially as
+     a point in the 3D space.The vector can move in the the N dimensional feature space to find the globally
+     locally optimum set of features  in the feature space.
+     So, it is very important to visulize the features as vectors in the N dimensional feature space, so Linear 
+     Algebra routines, and calculus formulaes can be applied in oder to solve them.
 ```

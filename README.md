@@ -15,6 +15,6 @@ explanations.
 <br></br>
 <b>Linear Algebra Intuition: </b>
 <br></br>
-![NB1](https://github.com/kalyanghosh/Mathematics_For_Machine_Learning/blob/master/Linear_Algebra_Intution.ipynb)
+![NB1](https://nbviewer.jupyter.org/github/kalyanghosh/Mathematics_For_Machine_Learning/blob/master/Linear_Algebra_Intution.ipynb)
 
 

@@ -13,9 +13,9 @@ explanations.
 <br></br>
 <b>1. LINEAR ALGEBRA: <b>
 <br></br>
-Markup : * Bullet list
-Linear Algebra Intuition:
-```
+
+*Linear Algebra Intuition:
+```python
 #Definition of Linear Algebra:
 
 #Ans: Linear Algebra can be defined as the study of vectors,vector spaces and mapping between vector spaces.

@@ -7,4 +7,11 @@ This repository will give any budding beginner in Machine Learning a solid found
 in Linear Algebra and Multivariate Calculus.I have included IPython notebooks which has code snippets and important
 explanations.
 <br></br>
-So, Go ahead, Fork this repo and Happy Machine Learning :) 
+<b>So, Go ahead, Fork this repo and Happy Machine Learning :)</b>
+<br></br>
+<b>TABLE OF CONTENTS: </b>
+<br></br>
+<b>1. LINEAR ALGEBRA: <b>
+<br></br>
+
+

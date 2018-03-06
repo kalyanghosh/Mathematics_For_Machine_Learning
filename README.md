@@ -48,10 +48,30 @@ x+y+z=2
 #Vectors in Machine Learning:
 
 Ans: From a Computer Science point of view,A vector can be defined as a list of numbers.
-     From a Physical point of view, a vector can be defined as aposition in 3D space.
+     From a Physical point of view, a vector can be defined as a position in 3D space.
      If we visualize the parameters or features of an entity, a vector can be visualized spatially as
      a point in the 3D space.The vector can move in the the N dimensional feature space to find the globally
      locally optimum set of features  in the feature space.
      So, it is very important to visulize the features as vectors in the N dimensional feature space, so Linear 
      Algebra routines, and calculus formulaes can be applied in oder to solve them.
+```
+<br></br>
+-Vector_Operations:
+```python
+#Vector Operations:
+
+# There are two fundamental operations that can be performed on vectors
+
+# 1. Vector addition and Subtraction:
+#    Lets us define a co-ordinate space X,Y with two unit vectors X and Y. The space spanned by the 
+#    unit vectors is called the co-ordinate space.These unit vectors X and Y are called the basis vectors.
+
+#    Vector addition and subtraction follows the associativity rule:
+#    A+(B+C)=(A+B)+C
+
+# 2. Multiplication by a scalar constant
+#    If we multiply a vector with a scalar constant, each of the components of the scalar vector is multiplied
+#    by the scalar constant.
+#    c[A] = [cA]
+#     [B]   [cB]
 ```

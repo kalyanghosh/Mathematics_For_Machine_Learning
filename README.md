@@ -75,3 +75,18 @@ Ans: From a Computer Science point of view,A vector can be defined as a list of 
 #    c[A] = [cA]
 #     [B]   [cB]
 ```
+<br></br>
+-Cosine_Dot_Product:
+```python
+#Modulus  and dot product of vectors
+ # 1. The dot product or the projection product of two vectors can be explained as :
+      r.s = |r||s|cos(theta) , where theta is the angle between the two vectors
+      Dot product of two vectors satisfy the following properties:
+      * r.s = s.r (Commutative)
+      * r.(s+t) = r.s+r.t (Distributive)
+      * r.(ks) = k(rs) (Associative over Scalar Multiplication)
+ #2. If two vectors are orthogonal to each other , the the value of :
+      * r.s = 0 , because the value of cos(90)=0
+     If two vectors are parallel to each other, then the value of:
+      * r.s = |r||s|, because the value of cos(0)=1
+'''

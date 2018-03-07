@@ -89,4 +89,15 @@ Ans: From a Computer Science point of view,A vector can be defined as a list of 
       * r.s = 0 , because the value of cos(90)=0
      If two vectors are parallel to each other, then the value of:
       * r.s = |r||s|, because the value of cos(0)=1
-'''
+```
+<br></br>
+-Vector_Projection:
+```python
+# Projection:
+  The dot product of two vectors is defined as :
+  * a.b=|a||b|cos(theta)
+  * The term |b|cos(theta) is defined as the projection of the vector b on to a
+    Now, if we write :
+    > (a.b)/|a|=|b|cos(theta), is called the scalar projection
+    >  a(a.b)/|a||a|= vector projection
+```

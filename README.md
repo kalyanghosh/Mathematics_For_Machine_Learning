@@ -255,3 +255,7 @@ def fixRowThree(A) :
     A[3]=A[3]/A[3,3]
     return A
 ```
+## SINGULAR VALUE DECOMPOSITION:
+[Best SVD Tutorial](https://www.youtube.com/watch?v=P5mlg91as1c)
+
+

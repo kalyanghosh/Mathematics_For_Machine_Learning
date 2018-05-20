@@ -259,6 +259,9 @@ def fixRowThree(A) :
 [Best SVD Tutorial](https://www.youtube.com/watch?v=P5mlg91as1c)
 
 
+-Coding Examples:
+```python
+'''
 # -*- coding: utf-8 -*-
 """
 Created on Sat May 19 19:45:09 2018
@@ -296,3 +299,4 @@ U,E,VT=np.linalg.svd(A,full_matrices=False)
 print ("U:\n {}".format(U))
 print ("E:\n {}".format(E))
 print ("VT:\n {}".format(VT))
+'''

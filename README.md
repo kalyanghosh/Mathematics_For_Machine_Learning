@@ -256,7 +256,7 @@ def fixRowThree(A) :
     return A
 ```
 ## SINGULAR VALUE DECOMPOSITION:
-[Best SVD Tutorial](https://www.youtube.com/watch?v=P5mlg91as1c)
+[Best SVD Tutorial Video :](https://www.youtube.com/watch?v=P5mlg91as1c)
 
 
 -Coding Examples:
